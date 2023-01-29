@@ -2,7 +2,7 @@
 Most coding exercises revolve around writing an algorithm to solve a particular problem.
 In the below guide, this is what we are going to assume.
 
-
+<br>
 
 ### Step 1 - Start with the things you know | The Signature
 **Rationale**<br>
@@ -23,7 +23,7 @@ Use that information to write up a function signature, with an empty body for no
 - Don't worry or care about the implementation details (yet).
 - Familiarize yourself with the general naming conventions, and those that are specific to your language
 
-
+<br>
 
 ### Step 2 - Solidify your understanding of the problem | The Tests
 **Rationale**<br>
@@ -51,7 +51,7 @@ Having a pre-defined test suite will not only help you test your code, but will 
 - Be familiar with multiline editing.
 - Be familiar with string formatting.
 
-
+<br>
 
 ### Step 3 - Use your intuition | The Strategy
 **Rationale**<br>
@@ -84,7 +84,7 @@ They are usually not the most elegant, nor most performant solution out there, b
   *"I'll do nothing if..."*<br>
   *"I'll keep track of..."*<br>
 
-
+<br>
 
 ### Step 4 - Just write it down | The Implementation
 **Rationale**<br>
@@ -110,7 +110,7 @@ Assuming your strategy was correct, by the end of this step, you have a working 
 - Get intimately familiar with the main data types of your language.
 - Get intimately familiar with the main data structures of your language.
 
-
+<br>
 
 ### Step 5 - Don't stop, analyse | The Refactor
 **Rationale**<br>
